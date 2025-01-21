@@ -23,7 +23,7 @@
 
 ### 5. **ercorr_manager**
 - **Описание**: *Оконное приложение для запуска ercorr локально.*
-- **Технологии**: Python
+- **Технологии**: Python PyQt(PySide)
 - **Ссылка на репозиторий**: [ercorr_manager](https://github.com/IT-spec-poly/ercorr_manager.git)
 
 

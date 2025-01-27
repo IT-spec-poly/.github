@@ -26,11 +26,10 @@
 - **Технологии**: Python, PyQt(PySide)
 - **Ссылка на репозиторий**: [ercorr_manager](https://github.com/IT-spec-poly/ercorr_manager.git)
 
-### 5. **corrosion-frontend**
+### 6. **corrosion-frontend**
 - **Описание**: *Electron приложение для моделирования систем трубопровода в рамках расчёта коррозионной стойкости.*
 - **Технологии**: React, Electron
 - **Ссылка на репозиторий**: [corrosion-frontend](https://github.com/IT-spec-poly/corrosion-frontend)
-
 
 ---
 

@@ -34,7 +34,7 @@
 ### 7. **vcorr-dataset-generator**
 - **Описание**: *Проект по расширению граничных условий датасета-сетки, путём выведения формул зависимости коррозии от параметров. Испольузует простой или MARS путь.*
 - **Технологии**: Python, Jupyter
-- **Ссылка на репозиторий**: [corrosion-frontend](https://github.com/IT-spec-poly/vcorr-dataset-generator)
+- **Ссылка на репозиторий**: [vcorr-dataset-generator](https://github.com/IT-spec-poly/vcorr-dataset-generator)
 
 ---
 
